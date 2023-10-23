@@ -1,0 +1,14 @@
+/* 3-header.css */
+header {
+	background-color: #484848;
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.logo {
+	margin-left: 20px;
+}
